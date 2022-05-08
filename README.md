@@ -6,7 +6,7 @@ This application provides all the important data of SpaceX missions.
 
 Open terminal in your IDE/Code Editor and run the below commands ony by one,
 
-- First Command: `git clone `
+- First Command: `git clone https://github.com/rahberisafi/spacex_tech`
 - Second Command: `npm install`
 - Third Command: `npm start`
 
@@ -22,4 +22,4 @@ Open terminal in your IDE/Code Editor and run the below commands ony by one,
 
 ### Project Link:
 
-<a  target="_blank" href="">Live Project Link</a>
+<a  target="_blank" href="https://spacextech.netlify.app/">Live Project Link</a>
